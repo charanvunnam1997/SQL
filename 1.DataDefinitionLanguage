@@ -1,6 +1,6 @@
 SQL Commands DDL:
 
-# Creating a database 
+# Creating a database persons
 
 create table persons(
     id INT NOT NULL AUTO_INCREMENT,
